@@ -91,3 +91,19 @@ Evitan dañar el proyecto principal.
 Facilitan el trabajo en equipo.
 
 Ayudan a corregir errores y probar nuevas funciones.
+
+## Pregunta 6: ¿Qué es GitFlow?
+
+GitFlow es una forma de organizar el trabajo en Git mediante diferentes ramas. Sirve para mantener el proyecto ordenado y facilitar el desarrollo de nuevas funciones, las pruebas y la corrección de errores.
+
+Sus ramas principales son:
+
+Master: Es la rama principal donde se encuentra la versión estable del proyecto.
+
+Develop: Es donde se van uniendo los cambios y avances antes de publicarlos.
+
+Feature: Se utiliza para desarrollar nuevas funciones sin afectar las demás partes del proyecto.
+
+Release: Se usa para preparar y revisar una nueva versión antes de publicarla.
+
+Hotfix: Sirve para corregir errores urgentes que aparecen en la versión publicada.
