@@ -1,0 +1,7 @@
+## Pregunta 1: ¿Qué es Git y qué problema resuelve en el desarrollo de software?
+
+## Para mí, Git es una herramienta que sirve para llevar un control de los cambios que se hacen en un proyecto de software. Es como tener un historial de todo lo que voy haciendo en el código, para poder regresar a una versión anterior si cometo algún error o algo deja de funcionar.
+
+## También permite que varias personas trabajen en un mismo proyecto sin perder los cambios que hace cada una.
+
+## El problema que resuelve es la desorganización al momento de desarrollar un programa, ya que evita perder código, facilita trabajar en equipo y permite saber qué cambios se han realizado y quién los hizo.
