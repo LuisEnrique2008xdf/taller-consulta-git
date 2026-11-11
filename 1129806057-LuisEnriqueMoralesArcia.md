@@ -74,3 +74,20 @@ Upstream: Es el repositorio original del proyecto.
 Origin: Es el repositorio remoto que normalmente corresponde a nuestra propia copia.
 
 Ejemplo: Si hacemos una copia (fork) de un proyecto de otra persona, nuestra copia es origin y el proyecto original es upstream.
+
+## Pregunta 5: La importancia de las ramas (Branches)
+
+La importancia de las ramas (Branches)
+Las ramas son importantes en un proyecto de software porque nos permiten trabajar en diferentes funciones sin afectar el proyecto principal. Sirven para probar nuevas ideas, corregir errores y realizar cambios de manera más organizada.
+
+Cuando trabajamos solos, las ramas nos ayudan a experimentar y hacer modificaciones sin dañar el trabajo que ya tenemos. Cuando trabajamos en equipo, permiten que cada persona se encargue de una parte diferente del proyecto sin interferir con el trabajo de los demás.
+
+Sus principales ventajas son:
+
+Permiten trabajar de forma más organizada.
+
+Evitan dañar el proyecto principal.
+
+Facilitan el trabajo en equipo.
+
+Ayudan a corregir errores y probar nuevas funciones.
