@@ -21,3 +21,16 @@ Para mí, la principal diferencia entre Git y GitHub es que Git es una herramien
 | Permite guardar el historial de cambios. | Permite compartir el código con otros desarrolladores. |
 | Permite crear ramas y unir cambios. | Facilita el trabajo en equipo y la colaboración. |
 | No necesita internet para trabajar localmente. | Necesita internet para sincronizar los repositorios remotos. |
+
+
+## Pregunta 3: ¿Qué es una nube de repositorios?
+
+Una nube de repositorios es una plataforma en internet que permite almacenar, organizar y administrar proyectos de programación, especialmente su código fuente. También permite que varias personas trabajen en un mismo proyecto desde diferentes lugares, compartan cambios y mantengan un registro de las modificaciones realizadas.
+
+## Tres alternativas
+
+1. GitLab: Es una plataforma que permite guardar código de programación en internet, trabajar en equipo y controlar los cambios que se realizan en los proyectos.
+
+2. Bitbucket: Es una herramienta que permite almacenar repositorios de código y compartir proyectos con otros programadores. También ayuda a organizar el trabajo en equipo.
+
+3. SourceForge: Es una plataforma que permite publicar, almacenar y compartir proyectos de software. Es utilizada principalmente para proyectos de código abierto.
